@@ -56,16 +56,5 @@ As you can see from the plots, the agent gradually learns to survive longer and 
 ## 🏆 Results
 After several episodes of training, the agent learns to avoid pipes and score higher. Here's an example of the agent achieving a high score:
 
-## 📊 Performance
-The agent’s performance improves over time. Below are some sample results from the training process:
-
-### Score vs Episode
-![Score vs Episode](path/to/score_vs_episode.pngC:\Users\KIIT\OneDrive\sco vs episode.png)
-
-### Episode Duration vs Episode
-![Episode Duration vs Episode](path/to/score_vs_episode.pngC:\Users\KIIT\OneDrive\dur vs epi.pngs)
-
-As you can see from the plots, the agent gradually learns to survive longer and improve its score through training.
-
 ## 📜 License
 This project is licensed under the MIT License.
